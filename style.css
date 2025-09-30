@@ -1,0 +1,15 @@
+body {
+    background-color: lightgreen; /* Bakgrunden */
+    color: purple;                /* Texten */
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    color: tomato;                /* Rubrik */
+    background-color: lightblue;  /* Rubrik bakgrund */
+    padding: 10px;
+  }
+  h2 {
+    color: lightgreen;            /* Underrubrik */
+    background-color: purple;     /* Underrubrik bakgrund */
+    padding: 8px;
+  }
